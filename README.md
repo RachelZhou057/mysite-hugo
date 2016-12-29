@@ -1,2 +1,2 @@
-# mystic-hugo
+# mysite-hugo
 input files of hugo
